@@ -2,7 +2,7 @@
 In this projecct I have predicted the wine quality using multiple regression in a simple way
 
 Requirements-
-1. import pandas2
+1. import pandas
 2. import numpy
 3. import sklearn
 
